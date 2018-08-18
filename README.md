@@ -2,7 +2,7 @@
 
 ## [主页链接](https://venjack.github.io/share/)
 
-### [Putty下载](https://github.com/Venjack/share/raw/master/putty.exe)
+### [SSR-PC版下载](https://github.com/Venjack/share/files/2299115/shadowsocks-windows-4.0.10.zip)
 
 You can use the [editor on GitHub](https://github.com/Venjack/share/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
