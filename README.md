@@ -4,4 +4,4 @@
 
 ### [SSR-PC版下载](https://github.com/Venjack/share/files/2299115/shadowsocks-windows-4.0.10.zip)
 
-[editor on GitHub](https://github.com/Venjack/share/edit/master/README.md)
+[编辑该页面](https://github.com/Venjack/share/edit/master/README.md)
